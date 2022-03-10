@@ -1,0 +1,970 @@
+{
+  "baseModLoader": {
+    "id": 6077,
+    "gameVersionId": 8964,
+    "minecraftGameVersionId": 74,
+    "forgeVersion": "0.13.1",
+    "name": "fabric-0.13.1-1.18.1",
+    "type": 4,
+    "downloadUrl": "https://fabricmc.forgecdn.net/net/fabricmc/fabric-loader/0.13.1/fabric-loader-0.13.1.jar",
+    "filename": "fabric-loader-0.13.1.jar",
+    "installMethod": 4,
+    "latest": true,
+    "recommended": true,
+    "approved": false,
+    "dateModified": "2022-02-08T21:22:59.683Z",
+    "mavenVersionString": "net.fabricmc:fabric-loader:0.13.1",
+    "versionJson": "{\"id\":\"fabric-loader-0.13.1-1.18.1\",\"inheritsFrom\":\"1.18.1\",\"releaseTime\":\"2022-02-08T12:52:48+0000\",\"time\":\"2022-02-08T12:52:48+0000\",\"type\":\"release\",\"mainClass\":\"net.fabricmc.loader.impl.launch.knot.KnotClient\",\"arguments\":{\"game\":[],\"jvm\":[\"-DFabricMcEmu= net.minecraft.client.main.Main \"]},\"libraries\":[{\"name\":\"net.fabricmc:tiny-mappings-parser:0.3.0+build.17\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:sponge-mixin:0.11.1+mixin.0.8.5\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:tiny-remapper:0.8.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:access-widener:2.1.0\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-analysis:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-commons:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-tree:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"org.ow2.asm:asm-util:9.2\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:intermediary:1.18.1\",\"url\":\"https://fabricmc.forgecdn.net/\"},{\"name\":\"net.fabricmc:fabric-loader:0.13.1\",\"url\":\"https://fabricmc.forgecdn.net/\"}]}",
+    "librariesInstallLocation": "{0}libraries\\net\\fabricmc\\fabric-loader\\0.13.1",
+    "minecraftVersion": "1.18.1",
+    "modLoaderGameVersionId": 8964,
+    "modLoaderGameVersionTypeId": 73247,
+    "modLoaderGameVersionStatus": 1,
+    "modLoaderGameVersionTypeStatus": 1,
+    "mcGameVersionId": 8857,
+    "mcGameVersionTypeId": 73250,
+    "mcGameVersionStatus": 1,
+    "mcGameVersionTypeStatus": 1
+  },
+  "isUnlocked": true,
+  "javaArgsOverride": null,
+  "javaDirOverride": null,
+  "lastPlayed": "2022-02-19T00:38:51.9930995Z",
+  "playedCount": 1,
+  "manifest": null,
+  "fileDate": "0001-01-01T00:00:00",
+  "installedModpack": null,
+  "projectID": 0,
+  "fileID": 0,
+  "customAuthor": null,
+  "modpackOverrides": null,
+  "isMemoryOverride": false,
+  "allocatedMemory": 3072,
+  "profileImagePath": null,
+  "guid": "bd77b928-9f6c-4b37-9a0c-e8398a8314f4",
+  "gameTypeID": 432,
+  "installPath": "D:\\Mojang\\CurseForge\\Instances\\TestInstance\\",
+  "name": "TestInstance",
+  "cachedScans": [],
+  "isValid": true,
+  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastRefreshAttempt": "0001-01-01T00:00:00",
+  "isEnabled": true,
+  "isPinned": false,
+  "gameVersion": "1.18.1",
+  "gameVersionFlavor": null,
+  "preferenceAlternateFile": false,
+  "preferenceAutoInstallUpdates": false,
+  "preferenceQuickDeleteLibraries": true,
+  "preferenceDeleteSavedVariables": false,
+  "preferenceProcessFileCommands": true,
+  "preferenceReleaseType": 1,
+  "preferenceModdingFolderPath": null,
+  "syncProfile": {
+    "PreferenceEnabled": false,
+    "PreferenceAutoSync": true,
+    "PreferenceAutoDelete": false,
+    "PreferenceBackupSavedVariables": false,
+    "GameInstanceGuid": "00000000-0000-0000-0000-000000000000",
+    "SyncProfileID": 0,
+    "SavedVariablesProfile": null,
+    "LastSyncDate": "0001-01-01T00:00:00"
+  },
+  "preferenceShowAddOnInfo": true,
+  "installDate": "2022-02-19T00:24:33.0264381Z",
+  "installedAddons": [
+    {
+      "addonID": 319057,
+      "gameInstanceID": "bd77b928-9f6c-4b37-9a0c-e8398a8314f4",
+      "installedFile": {
+        "id": 3641132,
+        "displayName": "[Fabric 1.18(.1)] v6.2.57",
+        "fileName": "cloth-config-6.2.57-fabric.jar",
+        "fileDate": "2022-02-08T15:20:20.587Z",
+        "fileLength": 1122823,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 913256574,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1681417698,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cloth-config.accessWidener",
+            "fingerprint": 1976903584,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4061651779,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 2356087988,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 2112375997,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_clothconfig_common_abcd86632bf44fb981927b83b8e34a90_0356a7a483eabfedaba980b5c85f759a4be93ea3fc0cb8a2cc087e3bc33fa11fclothconfig6257devjar",
+            "fingerprint": 2458202992,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 285374830,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric",
+          "1.18",
+          "1.18-Snapshot"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+            "gameVersionName": "1.18-Snapshot",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2725708,
+        "projectId": 319057,
+        "packageFingerprintId": 856020954,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3756380,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "cloth-config-6.2.57-fabric.jar"
+      },
+      "dateInstalled": "2022-02-19T00:31:46.7573207Z",
+      "dateUpdated": "2022-02-19T00:33:37.5283825Z",
+      "dateLastUpdateAttempted": "2022-02-19T00:33:37.5283825Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "latestFile": {
+        "id": 3641132,
+        "displayName": "[Fabric 1.18(.1)] v6.2.57",
+        "fileName": "cloth-config-6.2.57-fabric.jar",
+        "fileDate": "2022-02-08T15:20:20.587Z",
+        "fileLength": 1122823,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 913256574,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1681417698,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cloth-config.accessWidener",
+            "fingerprint": 1976903584,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4061651779,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 2356087988,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 2112375997,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_clothconfig_common_abcd86632bf44fb981927b83b8e34a90_0356a7a483eabfedaba980b5c85f759a4be93ea3fc0cb8a2cc087e3bc33fa11fclothconfig6257devjar",
+            "fingerprint": 2458202992,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 285374830,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric",
+          "1.18",
+          "1.18-Snapshot"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+            "gameVersionName": "1.18-Snapshot",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2725708,
+        "projectId": 319057,
+        "packageFingerprintId": 856020954,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3756380,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "cloth-config-6.2.57-fabric.jar"
+      },
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 550480,
+      "gameInstanceID": "bd77b928-9f6c-4b37-9a0c-e8398a8314f4",
+      "installedFile": {
+        "id": 3638424,
+        "displayName": "forgottengraves-mc1.18.1-v2.4.1.jar",
+        "fileName": "forgottengraves-mc1.18.1-v2.4.1.jar",
+        "fileDate": "2022-02-06T07:31:35.15Z",
+        "fileLength": 1154768,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3638/424/forgottengraves-mc1.18.1-v2.4.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 86314339,
+            "addonId": 341284,
+            "type": 2,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314340,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314338,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314341,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3638424
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3107017433,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_forgottengraves",
+            "fingerprint": 3177858281,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2655493063,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 352117317,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "graves.mixins.json",
+            "fingerprint": 617671038,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2218020426,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "forgottengraves-refmap.json",
+            "fingerprint": 1019249037,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 93896145,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 617231316,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2722334,
+        "projectId": 550480,
+        "packageFingerprintId": 854240335,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3749189,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "forgottengraves-mc1.18.1-v2.4.1.jar"
+      },
+      "dateInstalled": "2022-02-19T00:25:16.9050791Z",
+      "dateUpdated": "2022-02-19T00:25:16.927065Z",
+      "dateLastUpdateAttempted": "2022-02-19T00:25:16.927065Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "latestFile": {
+        "id": 3638424,
+        "displayName": "forgottengraves-mc1.18.1-v2.4.1.jar",
+        "fileName": "forgottengraves-mc1.18.1-v2.4.1.jar",
+        "fileDate": "2022-02-06T07:31:35.15Z",
+        "fileLength": 1154768,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3638/424/forgottengraves-mc1.18.1-v2.4.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 86314339,
+            "addonId": 341284,
+            "type": 2,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314340,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314338,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3638424
+          },
+          {
+            "id": 86314341,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3638424
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3107017433,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_forgottengraves",
+            "fingerprint": 3177858281,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2655493063,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 352117317,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "graves.mixins.json",
+            "fingerprint": 617671038,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2218020426,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "forgottengraves-refmap.json",
+            "fingerprint": 1019249037,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 93896145,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 617231316,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2722334,
+        "projectId": 550480,
+        "packageFingerprintId": 854240335,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3749189,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "forgottengraves-mc1.18.1-v2.4.1.jar"
+      },
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 362528,
+      "gameInstanceID": "bd77b928-9f6c-4b37-9a0c-e8398a8314f4",
+      "installedFile": {
+        "id": 3613618,
+        "displayName": "Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "fileName": "Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "fileDate": "2022-01-19T17:21:46.277Z",
+        "fileLength": 460784,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3613/618/Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4125938394,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1677690403,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 792277862,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "decorative_blocks.mixins.json",
+            "fingerprint": 1438561051,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2827546988,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4258120459,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Decorative Blocks-fabric-1.18.1-refmap.json",
+            "fingerprint": 985517179,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lilypuree",
+            "fingerprint": 2128023947,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 472647950,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2690955,
+        "projectId": 362528,
+        "packageFingerprintId": 838769783,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3688663,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Decorative Blocks-fabric-1.18.1-2.0.4.jar"
+      },
+      "dateInstalled": "2022-02-19T00:37:14.6824009Z",
+      "dateUpdated": "2022-02-19T00:37:14.6963944Z",
+      "dateLastUpdateAttempted": "2022-02-19T00:37:14.6963944Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "latestFile": {
+        "id": 3613618,
+        "displayName": "Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "fileName": "Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "fileDate": "2022-01-19T17:21:46.277Z",
+        "fileLength": 460784,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3613/618/Decorative Blocks-fabric-1.18.1-2.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4125938394,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1677690403,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 792277862,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "decorative_blocks.mixins.json",
+            "fingerprint": 1438561051,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2827546988,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4258120459,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Decorative Blocks-fabric-1.18.1-refmap.json",
+            "fingerprint": 985517179,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lilypuree",
+            "fingerprint": 2128023947,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 472647950,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2690955,
+        "projectId": 362528,
+        "packageFingerprintId": 838769783,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3688663,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Decorative Blocks-fabric-1.18.1-2.0.4.jar"
+      },
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 306612,
+      "gameInstanceID": "bd77b928-9f6c-4b37-9a0c-e8398a8314f4",
+      "installedFile": {
+        "id": 3634318,
+        "displayName": "[1.18.1] Fabric API 0.46.4+1.18",
+        "fileName": "fabric-api-0.46.4+1.18.jar",
+        "fileDate": "2022-02-02T19:33:12.003Z",
+        "fileLength": 1174956,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3634/318/fabric-api-0.46.4+1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 935332083,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 860504683,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 50008879,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2148067591,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2717051,
+        "projectId": 306612,
+        "packageFingerprintId": 851352937,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3738006,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "fabric-api-0.46.4+1.18.jar"
+      },
+      "dateInstalled": "2022-02-19T00:24:35.2823974Z",
+      "dateUpdated": "2022-02-19T00:24:35.2923962Z",
+      "dateLastUpdateAttempted": "2022-02-19T00:24:35.2923962Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "latestFile": {
+        "id": 3634318,
+        "displayName": "[1.18.1] Fabric API 0.46.4+1.18",
+        "fileName": "fabric-api-0.46.4+1.18.jar",
+        "fileDate": "2022-02-02T19:33:12.003Z",
+        "fileLength": 1174956,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3634/318/fabric-api-0.46.4+1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 935332083,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 860504683,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 50008879,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2148067591,
+        "gameVersion": [
+          "1.18.1",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000018.0000000001",
+            "gameVersion": "1.18.1",
+            "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+            "gameVersionName": "1.18.1",
+            "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2717051,
+        "projectId": 306612,
+        "packageFingerprintId": 851352937,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3738006,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "fabric-api-0.46.4+1.18.jar"
+      },
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    }
+  ],
+  "isMigrated": false,
+  "preferenceUploadProfile": false,
+  "wasNameManuallyChanged": false
+}
